@@ -21,7 +21,7 @@
 | Glacier travel | Dome, Dark, Mary Green |
 | Technical crux | Dark → Bonanza ridge traverse (~5.6, exposed, simul) |
 | Rope | **60 m single, 8.5–9 mm** (40 m did NOT reach toe-slab rappel — confirmed beta) |
-| Best window | **Mid-July to late July** — Dark Glacier still firm, Mary Green schrund passable, Sinister N-Face schrund still bridged (open by early-mid July most years), bugs tolerable at Holden Pass. **Early August is the late-edge of the window.** **Window shifts significantly with snowpack: high-snow years push all schrund bridges 2–3 weeks later; low-snow years can open the route early July but also hasten glacier recession on Dark and Mary Green. Check current-year SnoTel (Holden, Lucerne basin) and recent TRs within 2 weeks of your start date.** |
+| Best window | **Early-July to mid July** — Dark Glacier still firm, Mary Green schrund passable, Sinister N-Face schrund still bridged (open by early July most years), bugs tolerable at Holden Pass. **Late July is the late-edge of the window.** **Window shifts significantly with snowpack: high-snow years push all schrund bridges 2–3 weeks later; low-snow years can open the route early July but also hasten glacier recession on Dark and Mary Green. Check current-year SnoTel (Holden, Lucerne basin) and recent TRs within 2 weeks of your start date.** |
 
 > **Distances and elevation gain confirmed** from CalTopo `E8VK531` — distances from GeoJSON export (horizontal 2D), elevation gain from CalTopo profile panel.
 
