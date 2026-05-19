@@ -1,30 +1,29 @@
 # Stehekin → Holden Bulger Traverse
 
-**Peaks:** Sinister, Dome, Dark, Bonanza, Martin (Methow) — 5 Bulger peaks
-**Style:** **4-day** point-to-point, ferry-shuttle-supported, glaciated alpine traverse
-*(with a built-in **bail/buffer Day** between D3 and D4 if needed — see Plan Variants. Hardrath did Sinister+Dome in a single day from high camp, but he was 3 weeks deep into a continuous Bulger push. We are starting fresh, so the plan front-loads the high camp on Day 1.)*
-**Region:** Glacier Peak Wilderness + Lake Chelan–Sawtooth Wilderness + Wenatchee NF
-**Approach:** Stehekin via Lady of the Lake → NPS shuttle to High Bridge
-**Exit:** Holden Village → Lucerne shuttle → Lady of the Lake out
-**Party:** 3 — Michael, Kirk, Ethan (all experienced mountaineers + rock climbers)
+- **Peaks:** Sinister, Dome, Dark, Bonanza, Martin (Methow) — 5 Bulger peaks
+- **Style:** **4-day** point-to-point, ferry-shuttle-supported, glaciated alpine traverse *(with options — see Plan Variants.)*
+- **Region:** Glacier Peak Wilderness + Lake Chelan–Sawtooth Wilderness + Wenatchee NF
+- **Approach:** Stehekin via Lady of the Lake → NPS shuttle to High Bridge
+- **Exit:** Holden Village → Lucerne shuttle → Lady of the Lake out
+- **Party:** 3 — Michael, Kirk, Ethan 
 
 ---
 
-## Trip-level stats (estimated)
+## Trip-level stats
 
 | Metric | Total |
 |---|---|
 | **Route map** | **[CalTopo `E8VK531`](https://caltopo.com/m/E8VK531)** — the plan, 9 numbered segments |
 | Party size | **3** (Michael, Kirk, Ethan) |
-| On-foot distance | **~33–38 mi** |
-| On-foot gain | **~19,000–22,000 ft** |
+| On-foot distance | **~35.5 mi** (confirmed horizontal from CalTopo GeoJSON) |
+| On-foot gain | **20,900 ft gain / 19,285 ft loss** (confirmed from CalTopo profile panel) |
 | Summits | 5 |
 | Glacier travel | Dome, Dark, Mary Green |
 | Technical crux | Dark → Bonanza ridge traverse (~5.6, exposed, simul) |
 | Rope | **60 m single, 8.5–9 mm** (40 m did NOT reach toe-slab rappel — confirmed beta) |
 | Best window | **Mid-July to late July** — Dark Glacier still firm, Mary Green schrund passable, Sinister N-Face schrund still bridged (open by early-mid July most years), bugs tolerable at Holden Pass. **Early August is the late-edge of the window.** |
 
-> **Stat caveat:** mile/gain numbers are reconstructed from Gilbertson 2018 TR + CalTopo `E8VK531` segment names + standard refs. Pull exact per-segment numbers from CalTopo (logged in) before going — they exist in the map, just paywalled in the web view.
+> **Distances and elevation gain confirmed** from CalTopo `E8VK531` — distances from GeoJSON export (horizontal 2D), elevation gain from CalTopo profile panel.
 
 ---
 
@@ -33,7 +32,7 @@
 | # | Source | What it gives you |
 |---|---|---|
 | 1 | [Gilbertson — Bonanza/Dark/Martin July 2018](https://countryhighpoints.com/bonanza-dark-and-martin-peak-traverse/) | Primary TR. Day 1 Hemlock approach, Dark glacier conditions, Dark→Bonanza simul beta, Mary Green descent + rappel, Martin from Holden Pass. **Single most important link.** |
-| 2 | [Herrington — Dark/Bonanza](https://cascadeclimbers.com/forum/topic/85937-trip-bonanza-peak-dark-peak-bonanza-peakdark-peak-traverse-7102014/) | Alternate beta, opposite direction (Bonanza→Dark). *(Site behind JS challenge — open in browser, not curl.)* |
+| 2 | [Herrington — Dark/Bonanza](https://cascadeclimbers.com/forum/topic/85937-trip-bonanza-peak-dark-peak-bonanza-peakdark-peak-traverse-7102014/) | Alternate beta, opposite direction (Bonanza→Dark). |
 | 2b | [Riley81 CC — Gunsight/Dome/Sinister via Stehekin 7/18/2013](https://cascadeclimbers.com/forum/topic/89486-tr-gunsight-dome-sinister-sw-face-ne-face-chickamin-glacier-n-face-7182013/) | **Canonical east-side Sinister + Dome TR.** Swamp Creek camp → Asa Mt south side → Icy Creek saddle high camp → N Face Sinister + Chickamin Glacier Dome combo day. **Use Wayback if blocked:** `https://web.archive.org/web/2024/<url>`. |
 | 2c | [Mountaineers — Rodica Manole Sinister from Stehekin 2023](https://www.mountaineers.org/explore/trip-reports/sinister-peak-w-ridge-2023-05-29) | S Fork Agnes log-crossing hazard + ridge-west-of-Asa high camp (~6,800') variant + W Ridge of Sinister (Class 3 + steep snow per Beckey). Bergschrund at col already opening late-May 2023. |
 | 2d | [SummitPost — Sinister Peak](https://www.summitpost.org/sinister-peak/151254) | Route catalog: NW Face (standard from Itswoot Ridge), W Ridge (Beckey, Class 3 + steep snow), N Face (50° snow/ice), S Face (Class 4). Explicitly **discourages** the east approach as the *standard* ("likely tortuous brush, will likely take longer than approaching from the West") — but east is still the only sane choice when linked with Dark/Bonanza/Martin via Holden. |
@@ -50,25 +49,25 @@
 
 ## CalTopo segments (map `E8VK531`)
 
-Distances measured from the exported GeoJSON tracks (2D horizontal — actual on-foot will be slightly longer with vertical). Elevation gain is from the CalTopo profile panel / TR reconstruction.
+Distances measured from the exported GeoJSON tracks (2D horizontal — actual on-foot will be slightly longer with vertical). Elevation gain from CalTopo profile panel.
 
-| # | Segment | Dist (mi) | Used on |
-|---|---|---|---|
-| 0 | Bus to High Bridge | 10.99 | NPS shuttle (not on foot) |
-| 1 | Approach to Swamp/Spruce Creek Camp | ~8.6–9.2 | Day 1 |
-| 2 | Sinister and Dome (peaks loop) | 11.66 | **Split across D1 (approach) + D2 (peaks)** — redraw to show Asa Mt approach + high camp + Sinister/Dome RT |
-| 2.B | Approach to Hemlock Camp / Dark Approach | 2.68 | Day 4 start |
-| 3 | Dark Peak | 2.66 | Day 4 |
-| 4 | Dark to Bonanza (~5.6 traverse) | 1.52 | Day 4 — crux |
-| 5 | Bonanza to Holden Pass | 1.50 | Day 4 — Mary Green descent + rappel |
-| 6 | Martin Peak | 2.59 | Day 5 |
-| 7 | Holden Pass to Copper Basin | 8.48 | (only if doing optional Copper/Fernow) |
-| 8 | Deproach from Copper Basin | 2.58 | (only if doing optional Copper/Fernow) |
-| — | Optional: Copper and Fernow | 6.29 | Tag-on Day 5+ (not in base plan) |
+| # | Segment | Dist (mi) | Vert (gain' loss') | Used on |
+|---|---|---|---|---|
+| 0 | Bus to High Bridge | 10.99 | | NPS shuttle (not on foot) |
+| 1 | Approach to Spruce Creek Camp | 9.16 | +1782'-559' | Day 1 |
+| 2 | Sinister and Dome (peaks loop) | 11.66 | +8958'-8955' | **Split across D1 (approach) + D2 (peaks)** — redraw to show Asa Mt approach + high camp + Sinister/Dome RT |
+| 2.B | Approach to Hemlock Camp / Dark Approach | 2.68 | +767'-68' | Day 3 |
+| 3 | Dark Peak | 2.66 |  +5355'-386' | Day 3 |
+| 4 | Dark to Bonanza (~5.6 traverse) | 1.52 | +1452'-496' | Day 3 — crux |
+| 5 | Bonanza to Holden Pass | 1.50 | +0'-3139' | Day 3 — Mary Green descent + rappel |
+| 6 | Martin Peak | 2.59 | +2532'-2534' | Day 4 |
+| 7 | Holden Pass to Holden Village | 5.87 | +54'-3148' | Day 4 exit |
+| 8 | Approach to Copper Basin | 2.58 | +2358'-23' | (only if doing optional Copper/Fernow) |
+| 10 | Deproach from Copper Basin | 2.58 | +23'-2358' | (only if doing optional Copper/Fernow) |
+| — | Optional: Copper and Fernow | 6.29 | +6289'-6200' |  Tag-on Day 5+ (not in base plan) |
 
-> **Note:** CalTopo seg 2 ("Sinister and Dome peaks loop") is drawn as a single 11.66 mi feature off Spruce Creek camp, but the canonical east-side beta (Riley81 2013) splits it: ~2 mi / +4,000 ft as an approach day to Icy Creek saddle high camp, then a ~6–10 mi RT alpine day for both summits. The CalTopo line will need to be redrawn before the trip to match this — current line appears to assume a single push from Spruce Creek, which isn't realistic per all known TRs.
-
-**Base traverse on-foot total (segs 1 + 2 + 2.B + 3 + 4 + 5 + 6 + Holden Pass→Village exit ~3 mi):** ≈ **35.4 mi horizontal.** Matches the 30–37 mi estimate up top.
+> **Note:** In the TRs, people often make climbing Dome and Sinister easier by camping on Icy Ridge.
+**Base traverse on-foot total (segs 1 + 2 + 2.B + 3 + 4 + 5 + 6 + seg 7 Holden Pass→Village):** = **9.16 + 11.66 + 2.68 + 2.66 + 1.52 + 1.50 + 2.59 + 5.87 = 37.6 mi horizontal** (confirmed from GeoJSON).
 
 ---
 
@@ -84,17 +83,16 @@ Distances measured from the exported GeoJSON tracks (2D horizontal — actual on
 - [ ] **Glacier Peak Wilderness self-issue permit** — free at trailhead/boundary, covers Dark/Bonanza zone.
 - [ ] **Holden Village lodging (optional buffer night)** — book if planning the 5-day variant or as a backup if we miss the Tue ferry.
 - [ ] **Cash (small bills)** — ~$15–25 pp per leg for SVA shuttle and Holden bus; bring extra for tips.
-- [ ] **Day-0 Chelan lodging** — near Field's Point or Chelan town, Thu Jun 25 night.
 - [ ] **Car shuttle / parking** — point-to-point trip ends at Chelan; one vehicle at Field's Point parking, or arrange a return ride.
 - [ ] **Recent TR check (within 2 weeks of trip)** — Sinister N Face schrund, Dark Glacier conditions, Mary Green bergschrund, S Fork Agnes log.
-- [ ] **CalTopo `E8VK531` re-export** — pull per-segment distance/gain numbers (logged in) to finalize the stats table.
+- [ ] **CalTopo `E8VK531`** — distances confirmed from GeoJSON export. Pull per-segment **elevation gain** numbers from CalTopo profile panel to finalize gain estimates.
 
 ### Timing
 
 - **Day 0 (drive day):** North Bend → Chelan ~3.5 hr. Stay near Field's Point or Chelan town. Board ferry next AM.
 - **Inbound ferry (Day 1, Fri Jun 26):** Two viable options, both catch the 11:30 AM SVA shuttle:
   - **Preferred: Lady Liberty 8:00 AM Chelan → Stehekin 9:30 AM** (~1.5 hr). 2 hr cushion before the 11:30 shuttle — leisurely permit pickup at Golden West, lunch, repack. **Call-to-book** (not online), small capacity — reserve early.
-  - **Backup: Express 8:30 AM → Stehekin 11:00 AM** (~2.5 hr). **30 min connection to the 11:30 shuttle** — workable if NOCA permit is pre-arranged and crew moves fast (Golden West is ~0.2 mi from Landing). Zero margin for ferry delay or permit-desk line. If you miss the 11:30, next shuttle is 2:00 PM → 3:00 PM trail start, which kills the high-camp push → Variant B.
+  - **Backup: Express 8:30 AM → Stehekin 11:00 AM** (~2.5 hr). **30 min connection to the 11:30 shuttle** — workable if NOCA permit is pre-arranged and crew moves fast (Golden West is ~0.2 mi from Landing). Zero margin for ferry delay or permit-desk line. If we miss the 11:30, next shuttle is 2:00 PM → 3:00 PM trail start, which kills the high-camp push → Variant B.
 - **Stehekin → High Bridge shuttle (Stehekin Valley Adventures, summer 2026):** Leaves Landing 8:00 / 11:30 / 2:00 / 5:30. Target **11:30 AM** on Day 1. ~45 min ride → High Bridge ~12:15 PM.
 - **Outbound (Day 4, Tue Jun 30):** Holden Village morning bus → Lucerne dock → **Express 12:30 PM downlake** (Stehekin/Lucerne → Fields Pt/Chelan, 2.5 hr). Confirm the Lucerne pickup time when booking — Express boards Stehekin 12:30 and stops Lucerne shortly after.
   - Backup: Lady Liberty 3:30 PM downlake — confirm whether it stops Lucerne (Stehekin-direct on the published schedule). If yes, gives an afternoon buffer if D4 runs long. If no, **Express 12:30 is the only out** — miss it and we'll stay an extra night at Holden.
@@ -107,16 +105,16 @@ Distances measured from the exported GeoJSON tracks (2D horizontal — actual on
 
 ### Day 1 — Stehekin → Icy Creek saddle high camp (big arrival day)
 
-- **CalTopo:** seg 0 (shuttle, 11.0 mi) + **seg 1** (~8.6 mi PCT) + approach portion of seg 2 (~2 mi / +4,000 ft Asa Mt push)
+- **CalTopo:** seg 0 (shuttle, 11.0 mi) + **seg 1** (**9.16 mi** PCT) + approach portion of seg 2 (~2 mi / +4,000 ft Asa Mt push)
 - **Route:** **Lady Liberty 8:00 AM** (call to book) → Stehekin 9:30 AM → **11:30 AM SVA shuttle** → **High Bridge ~12:15 PM** → boots-on-trail **~12:30 PM** → **PCT southbound** up West Fork Agnes Creek ~8.6 mi to the **S Fork Agnes log crossing** just south of Swamp Creek camp. Cross the log, push through ~400 vft of slide alder, then ~3,500+ vft on open rocky/heather slopes up the **south side of Asa Mountain** to the ridge crest (~6,400'), then west/SW to **high camp at Icy Creek saddle** (~6,800–7,000 ft, the col south of Gunsight — Riley81's "between Icy Creek and Blue Lake"). Tom Sjolseth’s site is the canonical bivy.
-- **Stats:** **~10.6 mi · ~5,800 ft gain · 8–11 hr** on foot. Big arrival day, but mostly trail + one sustained climb.
+- **Stats:** **~11.2 mi · ~5,800 ft gain · 8–11 hr** on foot (9.16 mi trail + ~2 mi Asa push). Big arrival day, but mostly trail + one sustained climb.
 - **Why front-load it:** Frees Day 2 to be a Sinister+Dome combo from high camp (Riley81 template). This is the only way to bag both peaks in a 4-day plan. The alternative — camping at Swamp Creek Day 1, then trying to do Asa push + Sinister + Dome all on Day 2 — is a 16–18 hr push that’s strictly worse than splitting it. Hardrath did Sinister+Dome from a high camp in a single day, but he was 3 weeks deep into continuous climbing; we are starting cold.
-- **Ferry timing matters:** Both Lady Liberty (9:30 arrival, 2 hr cushion) and Express (11:00 arrival, 30 min sprint) can catch the 11:30 SVA shuttle. Lady Liberty is the lower-risk play. Express works if NOCA permits are pre-arranged and ferry is on time — any slip and you're on the 2:00 PM shuttle, which forces Variant B (3 PM trail start = no shot at Icy Creek saddle in daylight).
-- **Terrain:** Maintained PCT then a log crossing then a short brushy band then 3,500+ ft of open rocky/heather slope hauling overnight + glacier kit + rope. Most of the Asa Mt climb is exposed south-facing — the afternoon-arrival timing means you climb in the worst heat. Bring 3 L water capacity per person and fill at S Fork Agnes before the push.
+- **Ferry timing matters:** Both Lady Liberty (9:30 arrival, 2 hr cushion) and Express (11:00 arrival, 30 min sprint) can catch the 11:30 SVA shuttle. Lady Liberty is the lower-risk play. Express works if NOCA permits are pre-arranged and ferry is on time — any slip and we're on the 2:00 PM shuttle, which forces Variant B (3 PM trail start = no shot at Icy Creek saddle in daylight).
+- **Terrain:** Maintained PCT then a log crossing then a short brushy band then 3,500+ ft of open rocky/heather slope hauling overnight + glacier kit + rope. Most of the Asa Mt climb is exposed south-facing — the afternoon-arrival timing means we climb in the worst heat. We'll carry 3 L water capacity per person and fill at S Fork Agnes before the push.
 - **Hazards:** S Fork Agnes log crossing (high-water years can be sketchy); heat on the exposed south-facing climb; arriving at camp at dusk if anything goes sideways earlier in the day.
 - **Permit:** NOCA backcountry permit needed (covers Stehekin valley camping en route) — pick up at Golden West Visitor Center in Stehekin before shuttle.
 - **Camp:** Icy Creek saddle.
-- **Bail logic:** From a 12:30 PM trail start, expect S Fork Agnes log around 4:30–5:30 PM and high camp 9–11 PM. If you're still on the PCT at **5:30 PM** (≈5 hr in, only halfway), bail to **Swamp Creek camp** and reset Day 2 as the Asa push — you're on a de-facto 5-day plan (Variant B) and may need the buffer day.
+- **Bail logic:** From a 12:30 PM trail start, we expect S Fork Agnes log around 4:30–5:30 PM and high camp 9–11 PM. If we're still on the PCT at **5:30 PM** (≈5 hr in, only halfway), bail to **Swamp Creek camp** and reset Day 2 as the Asa push — we're on a de-facto 5-day plan (Variant B) and may need the buffer day.
 
 ### Day 2 — Sinister + Dome combo day from high camp
 
@@ -140,7 +138,7 @@ Distances measured from the exported GeoJSON tracks (2D horizontal — actual on
   - Bonanza summit pitch: belayed 5.6 (one short pitch)
   - Mary Green toe-slabs: **60 m rappel** (40 m beta is wrong — confirmed)
 - **Water:** Dark Glacier melt + Mary Green melt. None on the ridge traverse — carry 1.5–2 L over.
-- **Camp:** Holden Pass. **Bugs are real here** — bring head net, set up early if you can.
+- **Camp:** Holden Pass. **Bugs are real here** — we'll bring head nets and set up early if we can.
 - **⚠️ Realism flag:** This is the make-or-break day for the 4-day plan. If anyone in the party is gassed off Day 2, **invoke the buffer day** (see Plan Variants) and split this into 3a (high camp → Hemlock + Dark, camp on Dark NW ridge or back at Hemlock) and 3b (Bonanza traverse + Mary Green + Holden Pass).
 - **Bail options:**
   - Before Dark summit: retreat down the Hemlock Camp open-forest line back to PCT — easiest bail.
@@ -149,11 +147,11 @@ Distances measured from the exported GeoJSON tracks (2D horizontal — actual on
 
 ### Day 4 — Martin Peak + exit to Lucerne
 
-- **CalTopo:** **seg 6** Martin Peak (2.59 mi RT from Holden Pass) + off-map Holden Pass→Holden Village trail (~3 mi). Optional Copper/Fernow tag-on = segs 7 + Optional + 8 (~17 mi extra) — skip in base plan.
+- **CalTopo:** **seg 6** Martin Peak (2.59 mi RT from Holden Pass) + **seg 7** Holden Pass→Holden Village (**5.87 mi**). Optional Copper/Fernow tag-on = segs 8 + Optional + 10 (~11.4 mi extra) — skip in base plan.
 - **Route:** Holden Pass → **Martin Peak (Methow) West Ridge** (mostly class 3 grass/gully, **one short 4th-class move below summit** — rap anchor exists). Solo-able for a confident party. Return to Holden Pass, descend to **Holden Village** (~3 mi, ~2,500 ft drop on trail). Catch **Holden bus to Lucerne** → ferry south.
-- **Stats:** Martin RT from Holden Pass ~3 mi · ~2,200 ft gain · 4–5 hr. Holden Pass → Holden Village ~3 mi · ~2,500 ft loss · 1.5 hr. **Total ~6 mi · ~2,200 ft gain · ~2,500 ft loss.**
+- **Stats:** Martin RT from Holden Pass **2.59 mi** · ~2,200 ft gain · 4–5 hr. Holden Pass → Holden Village **5.87 mi** · ~2,500 ft loss · ~2 hr. **Total ~8.5 mi · ~2,200 ft gain · ~2,500 ft loss.**
 - **Hazards:** Loose rock in upper west ridge gullies; short 4th class move = bring a 30 m tagline if anyone isn't comfortable downclimbing it.
-- **Critical timing:** **Know the Holden bus departure before you leave camp.** Set a hard summit turnaround time tied to it. Missing the bus = night in Holden.
+- **Critical timing:** **We need to know the Holden bus departure before we leave camp.** Set a hard summit turnaround time tied to it. Miss the bus and we're spending the night in Holden.
 
 ---
 
@@ -197,75 +195,11 @@ Distances measured from the exported GeoJSON tracks (2D horizontal — actual on
 
 | Day | Route | Distance | Gain | Time | Crux |
 |---|---|---|---|---|---|
-| 1 | Stehekin → Icy Creek saddle high camp | **~10.6 mi** | **~5,800 ft** | 8–11 hr | 12:30 PM trail start (any AM ferry + 11:30 SVA shuttle) — heat on Asa Mt afternoon, dusk arrival at camp |
+| 1 | Stehekin → Icy Creek saddle high camp | **~11.2 mi** | **~5,800 ft** | 8–11 hr | 12:30 PM trail start (any AM ferry + 11:30 SVA shuttle) — heat on Asa Mt afternoon, dusk arrival at camp |
 | 2 | Sinister N Face + Dome via Chickamin | ~6–10 mi RT | ~5,000–6,000 ft | 12–15 hr | Sinister schrund, Chickamin crevasses, Dome snow-bridge |
-| 3 | High camp → Hemlock → Dark + Bonanza → Holden Pass | ~12–14 mi | ~6,500–8,000 ft | **16–20 hr** | Dark→Bonanza ridge (~5.6 simul + 1 belayed pitch) |
-| 4 | Martin + exit | ~6 mi | ~2,200 ft (↑) / ~2,500 ft (↓) | 5–7 hr | catching Holden bus |
-| **Total (4-day)** | | **~35 mi on-foot** + ferry/shuttle | **~19,500–22,000 ft** | | |
+| 3 | High camp → Hemlock → Dark + Bonanza → Holden Pass | **~14 mi** (2.68 + 2.66 + 1.52 + 1.50 + descent off Asa ~2 mi + Hemlock approach) | ~6,500–8,000 ft | **16–20 hr** | Dark→Bonanza ridge (~5.6 simul + 1 belayed pitch) |
+| 4 | Martin + exit | **~8.5 mi** (2.59 mi Martin RT + 5.87 mi Holden Pass→Village) | ~2,200 ft (↑) / ~2,500 ft (↓) | 5–7 hr | catching Holden bus |
+| **Total (4-day)** | | **~37.6 mi on-foot** (confirmed horizontal) + ferry/shuttle | **20,900 ft gain / 19,285 ft loss** (confirmed from CalTopo profile panel) | | |
 | *(+ buffer day if invoked)* | | | | | split Day 3 into Dark-day + Bonanza-Holden day |
 
-> Numbers conservative. If you nail the per-segment numbers from CalTopo (logged in), update this table — the framework is set up to drop them in.
-
-
----
-
-## Appendix — Alternative itinerary: drop Sinister + Dome, add Copper + Fernow
-
-**Concept:** Skip the Sinister/Dome Icy Creek saddle high camp (the trip's two highest-risk objectives — N Face schrund + Chickamin crevasses) and instead spend that "saved" time on the Holden side adding **Copper** and **Fernow** after Dark→Bonanza and Martin. Net: still 5 Bulgers, but with a much lower technical ceiling and a more forgiving daily pace. Same ferry/shuttle/permit logistics as the base plan.
-
-**Peak swap:** Sinister + Dome → Copper + Fernow. Net Bulger count unchanged (5).
-
-**Why consider it:**
-
-- Sinister N Face (60° snow + schrund) and Chickamin Glacier crevasses are the two biggest objective hazards in the base plan. If the schrund is blown, Dome is essentially off the table from the east side.
-- Day 1 becomes a straightforward PCT camp at Hemlock (no Asa Mt afternoon push).
-- Day 3 — the monster — is unchanged in shape but starts from Hemlock rather than from a high camp 4,000 ft above the PCT, so the front half is much shorter.
-- Copper + Fernow from Copper Basin is a well-trodden, mostly Class 2–3 day with no glacier crux. Trades alpine seriousness for distance.
-
-**Cost:** One extra day on the ground (5 days instead of 4) and ~17 mi of extra walking on the back end.
-
-### Day-by-day (5-day plan)
-
-| Day | Route | Distance | Gain | Time | Notes |
-|---|---|---|---|---|---|
-| 1 | Stehekin → PCT → **Hemlock Camp** | ~9 mi | ~1,500 ft | 4–5 hr | Easy arrival day. Lady Liberty 8 AM → SVA 11:30 → trail ~12:30 PM → Hemlock by ~5 PM. |
-| 2 | Hemlock → Dark + Bonanza → Holden Pass | ~8 mi | ~6,500–7,500 ft | **14–18 hr** | Same crux as base D3, but starting fresh from Hemlock — no 4,000 ft Asa descent burning the legs first. |
-| 3 | Holden Pass → Martin → **Copper Basin** | ~12 mi | ~3,500 ft | 8–10 hr | Martin RT from Holden Pass (seg 6, ~3 mi, ~2,200 ft) then descend to Holden Village, pick up Railroad Creek trail east to **Copper Basin** (seg 7, ~8.5 mi). Cache/resupply at Holden Village in passing if useful. |
-| 4 | Copper Basin → **Copper + Fernow** → Copper Basin | ~6 mi RT | ~5,500 ft | 10–12 hr | Standard Copper Basin → Copper Peak (Class 2 scree) → traverse or drop+reascend to **Fernow** (Class 2–3 scramble, higher of the two at 9,249 ft). Long but technically straightforward. |
-| 5 | Copper Basin → Holden Village → Lucerne ferry | ~9 mi | ~500 ft (↑) / ~3,500 ft (↓) | 4–5 hr | Seg 8 deproach + Railroad Creek out + Holden bus to Lucerne. Catch Express ~12:30 PM (likely needs an early start) or Lady Liberty 3:30 PM. |
-| **Total (5-day)** | | **~44 mi on-foot** + ferry/shuttle | **~17,500 ft** | | |
-
-### Trade-offs vs. base plan
-
-| Dimension | Base (A) | Alt (this appendix) |
-|---|---|---|
-| Bulgers | Sinister, Dome, Dark, Bonanza, Martin (5) | Dark, Bonanza, Martin, Copper, Fernow (5) |
-| Days | 4 | 5 |
-| On-foot distance | ~35 mi | ~44 mi |
-| Total gain | ~19,500–22,000 ft | ~17,500 ft |
-| Glaciers crossed | 3 (Chickamin, Dark, Mary Green) | 2 (Dark, Mary Green) |
-| Roped pitches | ~3 (Dome snow bridge, Sinister N Face simul, Bonanza summit 5.6) | ~1 (Bonanza summit 5.6) |
-| Biggest objective hazard | Sinister N Face schrund + Chickamin crevasses | Dark→Bonanza ridge (same as base) |
-| Schrund/season risk | High — Sinister N Face + Chickamin can be no-go late season | Lower — only Mary Green schrund matters |
-| Outbound ferry day | Tue (Day 4) | Wed (Day 5) — **changes the outbound ferry reservation** |
-
-### Logistics deltas vs. base plan
-
-- **Outbound ferry shifts from Tue Jun 30 to Wed Jul 1.** Re-book Express (or Lady Liberty backup) accordingly.
-- **Holden bus departure shifts to Wed AM.** Confirm with Holden.
-- **Extra day of food + fuel** (~1 lb pp). No bear can required.
-- **Holden Village resupply opportunity** on Day 3 if we want to dump trash, top off snacks, or grab a meal. Otherwise pass through.
-- **NOCA permit covers only the Stehekin valley portion.** Once we cross Holden Pass we are in Glacier Peak Wilderness (self-issue, free) — same as base plan.
-
-### When to pick this variant
-
-- **Schrund report on Sinister N Face is bad** (open, no bridges) within ~2 weeks of trip.
-- **Weather window only supports one big technical day**, not two (D2 + D3 in base plan).
-- **Party preference for distance over technical seriousness.**
-- **Late-season trip** (early August) when Chickamin Glacier bridges and Sinister schrund are most likely to be blown.
-
-### Beta gaps for this variant
-
-- Copper/Fernow recent TRs from the Holden side (most beta is Phelps Creek approach from the Chiwawa side — different valley).
-- Copper Basin camp site quality (water, bugs, established bivy zones).
-- Whether Copper → Fernow traverse goes cleanly without dropping back to the basin (saves ~1,500 ft of re-gain if it does).
+> Distances confirmed from CalTopo `E8VK531` GeoJSON export. Elevation gains remain TR-reconstructed estimates.
