@@ -21,29 +21,9 @@
 | Glacier travel | Dome, Dark, Mary Green |
 | Technical crux | Dark → Bonanza ridge traverse (~5.6, exposed, simul) |
 | Rope | **60 m single, 8.5–9 mm** (40 m did NOT reach toe-slab rappel — confirmed beta) |
-| Best window | **Mid-July to late July** — Dark Glacier still firm, Mary Green schrund passable, Sinister N-Face schrund still bridged (open by early-mid July most years), bugs tolerable at Holden Pass. **Early August is the late-edge of the window.** |
+| Best window | **Mid-July to late July** — Dark Glacier still firm, Mary Green schrund passable, Sinister N-Face schrund still bridged (open by early-mid July most years), bugs tolerable at Holden Pass. **Early August is the late-edge of the window.** **Window shifts significantly with snowpack: high-snow years push all schrund bridges 2–3 weeks later; low-snow years can open the route early July but also hasten glacier recession on Dark and Mary Green. Check current-year SnoTel (Holden, Lucerne basin) and recent TRs within 2 weeks of your start date.** |
 
 > **Distances and elevation gain confirmed** from CalTopo `E8VK531` — distances from GeoJSON export (horizontal 2D), elevation gain from CalTopo profile panel.
-
----
-
-## Resources
-
-| # | Source | What it gives you |
-|---|---|---|
-| 1 | [Gilbertson — Bonanza/Dark/Martin July 2018](https://countryhighpoints.com/bonanza-dark-and-martin-peak-traverse/) | Primary TR. Day 1 Hemlock approach, Dark glacier conditions, Dark→Bonanza simul beta, Mary Green descent + rappel, Martin from Holden Pass. **Single most important link.** |
-| 2 | [Herrington — Dark/Bonanza](https://cascadeclimbers.com/forum/topic/85937-trip-bonanza-peak-dark-peak-bonanza-peakdark-peak-traverse-7102014/) | Alternate beta, opposite direction (Bonanza→Dark). |
-| 2b | [Riley81 CC — Gunsight/Dome/Sinister via Stehekin 7/18/2013](https://cascadeclimbers.com/forum/topic/89486-tr-gunsight-dome-sinister-sw-face-ne-face-chickamin-glacier-n-face-7182013/) | **Canonical east-side Sinister + Dome TR.** Swamp Creek camp → Asa Mt south side → Icy Creek saddle high camp → N Face Sinister + Chickamin Glacier Dome combo day. **Use Wayback if blocked:** `https://web.archive.org/web/2024/<url>`. |
-| 2c | [Mountaineers — Rodica Manole Sinister from Stehekin 2023](https://www.mountaineers.org/explore/trip-reports/sinister-peak-w-ridge-2023-05-29) | S Fork Agnes log-crossing hazard + ridge-west-of-Asa high camp (~6,800') variant + W Ridge of Sinister (Class 3 + steep snow per Beckey). Bergschrund at col already opening late-May 2023. |
-| 2d | [SummitPost — Sinister Peak](https://www.summitpost.org/sinister-peak/151254) | Route catalog: NW Face (standard from Itswoot Ridge), W Ridge (Beckey, Class 3 + steep snow), N Face (50° snow/ice), S Face (Class 4). Explicitly **discourages** the east approach as the *standard* ("likely tortuous brush, will likely take longer than approaching from the West") — but east is still the only sane choice when linked with Dark/Bonanza/Martin via Holden. |
-| 2e | [SummitPost — Dome Peak](https://www.summitpost.org/dome-peak/151253) | Approach options + summit geometry. Confirms east approach (Image Lake / Spruce-Chickamin ridge / Chickamin Glacier) is real but long. |
-| 3 | [Strava 5582790074](https://www.strava.com/activities/5582790074) | GPS track + splits for Bonanza→Dark direction (login required for full data). |
-| 4 | [CalTopo map `E8VK531`](https://caltopo.com/m/E8VK531) | **The route.** 9 numbered segments. Optional Copper+Fernow tag-on segment included. |
-| 5 | [Lake Chelan Boat Co — Lady of the Lake](https://www.ladyofthelake.com/) | Chelan ⇄ Stehekin + Lucerne stop. Confirm current season schedule + fares. |
-| 6 | [NPS Stehekin shuttle](https://www.nps.gov/lach/planyourvisit/shuttle.htm) | Stehekin Landing ⇄ High Bridge. Schedule + reservations. |
-| 7 | [Holden Village bus](https://www.holdenvillage.org/visit/getting-to-holden/) | Lucerne dock ⇄ Holden Village (~11 mi gravel). Times sync with the ferry. |
-| 8 | [NOCA backcountry permits](https://www.nps.gov/lach/planyourvisit/wilderness-camping.htm) | Required if camping inside Lake Chelan NRA (e.g. anywhere along the PCT south of High Bridge). Pick up at Golden West Visitor Center in Stehekin. |
-| 9 | [Glacier Peak Wilderness self-issue](https://www.fs.usda.gov/recarea/mbs/recarea/?recid=17829) | Free self-issue at trailhead/boundary for Dark/Bonanza zone. |
 
 ---
 
@@ -203,3 +183,23 @@ Distances measured from the exported GeoJSON tracks (2D horizontal — actual on
 | *(+ buffer day if invoked)* | | | | | split Day 3 into Dark-day + Bonanza-Holden day |
 
 > Distances confirmed from CalTopo `E8VK531` GeoJSON export. Elevation gains remain TR-reconstructed estimates.
+
+---
+
+## Resources
+
+| # | Source | What it gives you |
+|---|---|---|
+| 1 | [Gilbertson — Bonanza/Dark/Martin July 2018](https://countryhighpoints.com/bonanza-dark-and-martin-peak-traverse/) | Primary TR. Day 1 Hemlock approach, Dark glacier conditions, Dark→Bonanza simul beta, Mary Green descent + rappel, Martin from Holden Pass. **Single most important link.** |
+| 2 | [Herrington — Dark/Bonanza](https://cascadeclimbers.com/forum/topic/85937-trip-bonanza-peak-dark-peak-bonanza-peakdark-peak-traverse-7102014/) | Alternate beta, opposite direction (Bonanza→Dark). |
+| 2b | [Riley81 CC — Gunsight/Dome/Sinister via Stehekin 7/18/2013](https://cascadeclimbers.com/forum/topic/89486-tr-gunsight-dome-sinister-sw-face-ne-face-chickamin-glacier-n-face-7182013/) | **Canonical east-side Sinister + Dome TR.** Swamp Creek camp → Asa Mt south side → Icy Creek saddle high camp → N Face Sinister + Chickamin Glacier Dome combo day. **Use Wayback if blocked:** `https://web.archive.org/web/2024/<url>`. |
+| 2c | [Mountaineers — Rodica Manole Sinister from Stehekin 2023](https://www.mountaineers.org/explore/trip-reports/sinister-peak-w-ridge-2023-05-29) | S Fork Agnes log-crossing hazard + ridge-west-of-Asa high camp (~6,800') variant + W Ridge of Sinister (Class 3 + steep snow per Beckey). Bergschrund at col already opening late-May 2023. |
+| 2d | [SummitPost — Sinister Peak](https://www.summitpost.org/sinister-peak/151254) | Route catalog: NW Face (standard from Itswoot Ridge), W Ridge (Beckey, Class 3 + steep snow), N Face (50° snow/ice), S Face (Class 4). Explicitly **discourages** the east approach as the *standard* ("likely tortuous brush, will likely take longer than approaching from the West") — but east is still the only sane choice when linked with Dark/Bonanza/Martin via Holden. |
+| 2e | [SummitPost — Dome Peak](https://www.summitpost.org/dome-peak/151253) | Approach options + summit geometry. Confirms east approach (Image Lake / Spruce-Chickamin ridge / Chickamin Glacier) is real but long. |
+| 3 | [Strava 5582790074](https://www.strava.com/activities/5582790074) | GPS track + splits for Bonanza→Dark direction (login required for full data). |
+| 4 | [CalTopo map `E8VK531`](https://caltopo.com/m/E8VK531) | **The route.** 9 numbered segments. Optional Copper+Fernow tag-on segment included. |
+| 5 | [Lake Chelan Boat Co — Lady of the Lake](https://www.ladyofthelake.com/) | Chelan ⇄ Stehekin + Lucerne stop. Confirm current season schedule + fares. |
+| 6 | [NPS Stehekin shuttle](https://www.nps.gov/lach/planyourvisit/shuttle.htm) | Stehekin Landing ⇄ High Bridge. Schedule + reservations. |
+| 7 | [Holden Village bus](https://www.holdenvillage.org/visit/getting-to-holden/) | Lucerne dock ⇄ Holden Village (~11 mi gravel). Times sync with the ferry. |
+| 8 | [NOCA backcountry permits](https://www.nps.gov/lach/planyourvisit/wilderness-camping.htm) | Required if camping inside Lake Chelan NRA (e.g. anywhere along the PCT south of High Bridge). Pick up at Golden West Visitor Center in Stehekin. |
+| 9 | [Glacier Peak Wilderness self-issue](https://www.fs.usda.gov/recarea/mbs/recarea/?recid=17829) | Free self-issue at trailhead/boundary for Dark/Bonanza zone. |
