@@ -47,7 +47,6 @@ Distances measured from the exported GeoJSON tracks (2D horizontal — actual on
 | — | Optional: Copper and Fernow | 6.29 | +6289'-6200' |  Tag-on Day 5+ (not in base plan) |
 
 > **Note:** In the TRs, people often make climbing Dome and Sinister easier by camping on Icy Ridge.
-**Base traverse on-foot total (segs 1 + 2 + 2.B + 3 + 4 + 5 + 6 + seg 7 Holden Pass→Village):** = **9.16 + 11.66 + 2.68 + 2.66 + 1.52 + 1.50 + 2.59 + 5.87 = 37.6 mi horizontal** (confirmed from GeoJSON).
 
 ---
 
@@ -132,6 +131,40 @@ Distances measured from the exported GeoJSON tracks (2D horizontal — actual on
 - **Stats:** Martin RT from Holden Pass **2.59 mi** · ~2,200 ft gain · 4–5 hr. Holden Pass → Holden Village **5.87 mi** · ~2,500 ft loss · ~2 hr. **Total ~8.5 mi · ~2,200 ft gain · ~2,500 ft loss.**
 - **Hazards:** Loose rock in upper west ridge gullies; short 4th class move = bring a 30 m tagline if anyone isn't comfortable downclimbing it.
 - **Critical timing:** **We need to know the Holden bus departure before we leave camp.** Set a hard summit turnaround time tied to it. Miss the bus and we're spending the night in Holden.
+
+### Optional Day 5 (or add-on): Copper Peak + Mount Fernow from Holden
+
+Both peaks are Bulgers and can be done as a Holden-based day trip, using the same approach up the Copper Basin Trail. **CalTopo segs 8 + Optional + 10 = ~11.4 mi, ~6,289 ft gain.** This is a *long, hard day* — Copper alone takes Gilbertson most of a July day. Doing both Copper and Fernow in a single push is a very big objective; most parties should budget 2 days (one per peak) or a very early start as a single push for a strong party with no time pressure.
+
+**Best season:** Late July–September for dry Class 3. June possible with axe and crampons for residual snowfields.
+
+#### Approach (shared — Holden Village → Copper Basin, ~2.6 mi, ~2,350 ft gain)
+
+- From Holden Village (3,200 ft), cross Railroad Creek on footbridge and walk gravel road past the naturalized old copper mine site.
+- At the **Copper Basin Trail junction**, turn uphill into the woods.
+- Switchbacks through a recent burn zone (open, dusty, fallen burned logs) rising into Copper Basin.
+- **Copper Basin (~5,600 ft):** open buggy meadow with full-face views of Copper's east face and Fernow's east face. Cross Copper Creek on a log at the meadow edge.
+
+#### Copper Peak (8,966 ft) — Class 3+ with one 4th class move
+
+- From Copper Basin, traverse along the ~5,600 ft contour, following occasional game trails. Enter the burn zone, rising on a rightward traverse below cliffs.
+- Exit the burn zone through larches to the stream draining Copper's east face. Follow the stream up through talus → slabs → snowfield. **Crampons useful for the snowfield.**
+- **Key nav crux:** Do **not** go straight up the snowfield to the obvious high point — the cliffs at the top are exposed and sketchy. Instead, traverse **far right** across the snowfield, then take Class 3 terrain to gain the **NE ridge**.
+- **NE ridge:** Class 3 all the way to the summit with **one short exposed 4th class section**. Straightforward once on the ridge.
+- Summit has a vintage 1979 register.
+- Descent: reverse. Glissade as much as possible on the snowfield in season.
+
+*(Source: Eric Gilbertson, July 19 2018, [countryhighpoints.com/copper-peak/](https://www.countryhighpoints.com/copper-peak/))*
+
+#### Mount Fernow (9,249 ft) — Class 3–4 on upper east ridge
+
+- Same approach to Copper Basin, then **continue up the Copper Creek drainage** toward the **Copper-Entiat Divide (~7,200 ft)** — the col between Copper's massif and the Entiat drainage, at the base of Fernow's east ridge.
+- From the divide, follow the **east ridge on its south-side talus** toward the summit (Class 3).
+- **Above ~9,000 ft:** the ridge narrows and becomes more exposed. Expect some Class 4 moves and a **downclimb into a notch**, with gendarmes to work around. Gilbertson (winter 2022) found ski tracks from the Holden side at ~8,200 ft — this is a known and used line.
+- **Summit block:** approach from the SE face, Class 3 in summer conditions. Scramble around the east side.
+- Gilbertson notes the Holden route is **"by far the shortest"** of the three main approaches to Fernow (vs. Phelps Creek or Entiat River).
+
+*(Sources: Eric Gilbertson March 2022, [countryhighpoints.com/mt-fernow-winter-ascent/](https://www.countryhighpoints.com/mt-fernow-winter-ascent/); Fernow skills file alternate-route description)*
 
 ---
 
